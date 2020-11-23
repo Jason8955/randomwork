@@ -61,6 +61,8 @@ const playGame = () =>{
 
 playGame();
 
+//hidden choice to automatically win
+
 
 
 
